@@ -1,2 +1,2 @@
-# Dice-game
-Dice game from Angela 
+# Dice game
+ Dice game challenge from Aangle(Udemy)
